@@ -1,0 +1,21 @@
+{
+	"name": "node_study",
+	"version": "1.0.0",
+	"description": "node study with elie",
+	"main": "app.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/lolo-park/node_study.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/lolo-park/node_study/issues"
+	},
+	"homepage": "https://github.com/lolo-park/node_study#readme"
+}
